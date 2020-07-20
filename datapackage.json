@@ -20,26 +20,10 @@
   "keywords": [], 
   "id": "2e41086e-8e27-41ce-9a5a-3c9c14245839", 
   "metadata_created": "2020-07-20T11:21:10.777554", 
-  "metadata_modified": "2020-07-20T11:21:30.084899", 
+  "metadata_modified": "2020-07-20T11:21:36.422191", 
   "type": "dataset", 
-  "resources": [
-    {
-      "hash": "", 
-      "description": "", 
-      "path": "resource", 
-      "datastore_contains_all_records_of_source_file": "False", 
-      "id": "a0d67d8a-56d9-462b-99fd-fb3e0a1900b1", 
-      "metadata_modified": "2020-07-20T11:21:30.094456", 
-      "created": "2020-07-20T11:21:30.102826", 
-      "format": "", 
-      "tracking_summary": {
-        "total": 0, 
-        "recent": 0
-      }, 
-      "revision_id": "3afdd89c-5aa5-4d65-a251-85a45a5f6a63"
-    }
-  ], 
-  "num_resources": 1, 
+  "resources": [], 
+  "num_resources": 0, 
   "description": "empty", 
   "geographic_level": "global", 
   "tracking_summary": {
